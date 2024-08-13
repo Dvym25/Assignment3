@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string-array name="priority_array">
+        <item>Disco</item>
+        <item>Rap</item>
+        <item>Lofi</item>
+        <item>Jazz</item>
+        <item>Folk Music</item>
+        <item>Pop</item>
+    </string-array>
+</resources>
